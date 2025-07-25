@@ -1,0 +1,1547 @@
+2025-07-26 00:10:29,674 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:16:29,021 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:19:26,813 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:19:29,232 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 00:20:05,937 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 00:22:07,571 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 00:22:07,920 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 00:22:07,928 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 00:29:22,393 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:29:23,148 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 00:29:31,418 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 00:29:32,096 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 00:29:32,123 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 00:29:32,130 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 00:32:38,997 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:32:39,746 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 00:32:49,964 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 00:32:50,709 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 00:32:50,752 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 00:32:50,761 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 00:32:51,774 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:36:38,956 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:36:39,597 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 00:36:49,546 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 00:36:50,408 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 00:36:50,455 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 00:36:50,463 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 00:36:51,647 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:36:51,647 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:36:51,656 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:36:51,656 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:37:05,646 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:37:05,646 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:42:59,228 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:42:59,260 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:42:59,260 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:42:59,264 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:42:59,264 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:43:02,942 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:43:02,943 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:43:02,943 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:43:02,943 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:43:02,944 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:43:02,944 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:43:02,944 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:43:02,944 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:43:02,944 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:43:02,945 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:43:02,945 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:43:02,945 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:43:02,948 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:43:02,948 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:43:06,538 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:43:06,538 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:43:06,538 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:43:06,538 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:43:06,539 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:43:06,539 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:43:06,539 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:43:06,540 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:43:06,540 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:43:06,540 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:43:06,540 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:43:06,541 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:43:06,541 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:43:06,541 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:43:27,846 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:43:27,847 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:43:27,855 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:43:27,856 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:43:31,400 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:43:31,401 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:43:31,401 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:43:31,402 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:43:31,402 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:43:31,402 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:43:31,402 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:43:31,402 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:43:31,403 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:43:31,403 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:43:31,403 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:43:31,403 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:43:31,407 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:43:31,408 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:43:35,204 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:43:35,204 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:43:35,205 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:43:35,206 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:43:35,206 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:43:35,206 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:43:35,207 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:43:35,207 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:43:35,208 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:43:35,208 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:43:35,209 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:43:35,209 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:43:35,209 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:43:35,210 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:45:35,316 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:45:35,327 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:45:35,327 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:45:35,332 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:45:35,332 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:45:39,212 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:45:39,213 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:45:39,214 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:45:39,214 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:45:39,214 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:45:39,214 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:45:39,215 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:45:39,215 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:45:39,215 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:45:39,215 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:45:39,216 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:45:39,216 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:45:39,219 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:45:39,220 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:45:42,758 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:45:42,759 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:45:42,760 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:45:42,760 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:45:42,760 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:45:42,761 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:45:42,761 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:45:42,761 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:45:42,761 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:45:42,762 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:45:42,762 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:45:42,762 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:45:42,763 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:45:42,763 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:45:42,763 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:45:42,766 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:45:42,767 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:45:53,354 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:45:53,355 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:45:53,360 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:45:53,361 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:45:56,957 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:45:56,958 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:45:56,958 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:45:56,959 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:45:56,959 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:45:56,960 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:45:56,960 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:45:56,960 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:45:56,960 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:45:56,961 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:45:56,961 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:45:56,961 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:45:56,964 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:45:56,965 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:46:00,876 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:46:00,877 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:46:00,877 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:46:00,878 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:46:00,878 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:46:00,878 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:46:00,879 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:46:00,879 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:46:00,879 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:46:00,880 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:46:00,880 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:46:00,880 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:46:00,880 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:46:00,881 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:46:00,881 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:46:00,886 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:46:00,886 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:48:10,498 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:48:10,508 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:48:10,508 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:48:10,511 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:10,512 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:14,244 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:14,245 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:14,246 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:14,246 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:14,247 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:48:14,247 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:48:14,247 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:48:14,248 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:48:14,248 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:14,248 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:14,249 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:48:14,249 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:48:14,254 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:14,254 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:17,822 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:17,823 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:17,823 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:17,824 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:17,824 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:48:17,825 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:48:17,825 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:48:17,826 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:48:17,826 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:48:17,826 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:48:17,827 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:48:17,827 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:48:17,828 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:48:17,828 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:48:17,828 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:48:17,830 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:48:17,831 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:48:24,867 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:48:24,868 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:48:24,874 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:24,875 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:29,002 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:29,002 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:29,003 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:29,003 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:29,003 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:48:29,003 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:48:29,004 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:48:29,004 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:48:29,004 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:29,004 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:29,005 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:48:29,005 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:48:29,009 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:29,009 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:32,501 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:32,502 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:32,502 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:32,503 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:32,503 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:48:32,503 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:48:32,504 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:48:32,504 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:48:32,504 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:48:32,505 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:48:32,505 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:48:32,505 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:48:32,506 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:48:32,506 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:48:32,506 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:48:32,511 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 00:48:32,512 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:48:32,513 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:48:32,735 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:48:32,736 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:48:32,740 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:32,741 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:37,020 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:37,020 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:37,020 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:37,021 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:37,021 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:48:37,021 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:48:37,021 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:48:37,021 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:48:37,022 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:37,022 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:37,022 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:48:37,023 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:48:37,026 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:37,026 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:40,449 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:40,450 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:40,450 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:40,450 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:40,451 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:48:40,451 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:48:40,451 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:48:40,451 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:48:40,451 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:48:40,452 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:48:40,452 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:48:40,453 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:48:40,453 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:48:40,454 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:48:40,455 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:48:40,457 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:48:40,458 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:48:55,989 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:48:55,990 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:48:55,997 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:55,997 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:48:59,911 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:48:59,912 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:48:59,912 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:48:59,913 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:48:59,913 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:48:59,913 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:48:59,914 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:48:59,914 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:48:59,914 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:59,914 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:48:59,915 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:48:59,915 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:48:59,919 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:48:59,919 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:49:03,455 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:49:03,455 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:49:03,456 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:49:03,456 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:49:03,456 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:49:03,457 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:49:03,457 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:49:03,457 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:49:03,458 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:49:03,458 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:49:03,458 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:49:03,459 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:49:03,459 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:49:03,459 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:49:03,460 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:49:03,462 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 00:49:03,463 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:49:03,463 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:49:03,658 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:49:03,659 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:49:03,662 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:49:03,662 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:49:07,164 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:49:07,165 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:49:07,165 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:49:07,166 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:49:07,166 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:49:07,166 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:49:07,167 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:49:07,167 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:49:07,167 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:49:07,167 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:49:07,168 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:49:07,168 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:49:07,171 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:49:07,172 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:49:10,709 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:49:10,710 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:49:10,710 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:49:10,711 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:49:10,711 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:49:10,711 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:49:10,712 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:49:10,712 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:49:10,712 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:49:10,713 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:49:10,713 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:49:10,713 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:49:10,714 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:49:10,714 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:49:10,715 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:49:10,719 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:49:10,720 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:50:42,619 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:50:42,619 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:50:42,624 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:50:42,625 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:50:46,292 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:50:46,293 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:50:46,294 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:50:46,294 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:50:46,294 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:50:46,295 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:50:46,295 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:50:46,295 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:50:46,295 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:50:46,296 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:50:46,296 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:50:46,296 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:50:46,299 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:50:46,300 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:50:49,944 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:50:49,945 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:50:49,945 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:50:49,945 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:50:49,945 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:50:49,946 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:50:49,946 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:50:49,947 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:50:49,947 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:50:49,947 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:50:49,948 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:50:49,948 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:50:49,949 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:50:49,949 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:50:49,950 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:50:49,951 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:50:49,952 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:51:19,702 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:51:19,702 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:51:19,707 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:19,707 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:23,293 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:23,293 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:23,294 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:23,294 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:23,294 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:51:23,295 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:51:23,295 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:51:23,295 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:51:23,295 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:23,296 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:23,296 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:51:23,296 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:51:23,300 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:23,301 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:26,773 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:26,774 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:26,775 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:26,775 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:26,776 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:51:26,776 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:51:26,776 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:51:26,776 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:51:26,777 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:51:26,777 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:51:26,777 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:51:26,778 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:51:26,778 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:51:26,779 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:51:26,779 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:51:26,781 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:51:26,782 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:51:26,972 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:51:26,973 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:51:26,977 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:26,977 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:30,586 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:30,586 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:30,587 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:30,587 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:30,587 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:51:30,587 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:51:30,588 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:51:30,588 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:51:30,588 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:30,588 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:30,589 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:51:30,589 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:51:30,592 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:30,593 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:34,171 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:34,171 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:34,172 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:34,172 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:34,172 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:51:34,172 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:51:34,173 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:51:34,173 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:51:34,173 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:51:34,174 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:51:34,174 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:51:34,175 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:51:34,175 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:51:34,175 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:51:34,176 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:51:34,179 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:51:34,179 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:51:36,103 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:51:36,104 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:51:36,111 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:36,112 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:39,613 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:39,614 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:39,614 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:39,614 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:39,615 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:51:39,615 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:51:39,616 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:51:39,616 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:51:39,616 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:39,616 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:39,617 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:51:39,617 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:51:39,621 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:39,621 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:43,130 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:43,131 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:43,131 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:43,131 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:43,131 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:51:43,132 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:51:43,132 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:51:43,133 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:51:43,133 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:51:43,133 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:51:43,134 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:51:43,134 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:51:43,134 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:51:43,135 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:51:43,135 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:51:43,139 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 00:51:43,140 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:51:43,141 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:51:43,334 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:51:43,334 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:51:43,337 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:43,338 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:47,530 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:47,531 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:47,532 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:47,532 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:47,532 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:51:47,533 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:51:47,533 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:51:47,533 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:51:47,533 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:47,534 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:51:47,534 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:51:47,534 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:51:47,538 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:51:47,539 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:51:51,139 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:51:51,140 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:51:51,141 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:51:51,141 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:51:51,142 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:51:51,142 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:51:51,143 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:51:51,143 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:51:51,143 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:51:51,144 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:51:51,144 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:51:51,145 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:51:51,145 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:51:51,146 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:51:51,146 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:51:51,149 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:51:51,149 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:52:43,421 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:52:43,422 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:52:43,426 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:52:43,427 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:52:46,928 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:52:46,928 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:52:46,929 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:52:46,930 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:52:46,930 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:52:46,930 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:52:46,930 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:52:46,931 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:52:46,931 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:52:46,931 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:52:46,931 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:52:46,931 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:52:46,934 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:52:46,935 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:52:50,488 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:52:50,489 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:52:50,489 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:52:50,490 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:52:50,490 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:52:50,490 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:52:50,491 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:52:50,491 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:52:50,491 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:52:50,492 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:52:50,492 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:52:50,492 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:52:50,493 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:52:50,493 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:52:50,493 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:52:50,496 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 00:52:50,497 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:52:50,497 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:52:50,684 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:52:50,685 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:52:50,688 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:52:50,688 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:52:54,645 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:52:54,645 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:52:54,646 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:52:54,646 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:52:54,647 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:52:54,647 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:52:54,647 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:52:54,648 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:52:54,648 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:52:54,648 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:52:54,648 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:52:54,649 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:52:54,652 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:52:54,652 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:52:58,271 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:52:58,272 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:52:58,272 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:52:58,272 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:52:58,272 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:52:58,273 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:52:58,273 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:52:58,273 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:52:58,274 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:52:58,274 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:52:58,274 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:52:58,274 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:52:58,275 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:52:58,275 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:52:58,275 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:52:58,280 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:52:58,281 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:55:24,772 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:55:24,787 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:55:24,787 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:55:24,791 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:24,792 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:28,760 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:28,761 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:28,761 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:28,762 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:28,762 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:55:28,762 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:55:28,762 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:55:28,763 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:55:28,763 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:28,763 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:28,763 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:55:28,763 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:55:28,766 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:28,767 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:32,251 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:32,252 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:32,252 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:32,253 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:32,253 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:55:32,253 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:55:32,254 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:55:32,254 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:55:32,255 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:55:32,255 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:55:32,256 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:55:32,256 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:55:32,257 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:55:32,257 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:55:32,258 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:55:32,261 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:55:32,261 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:55:40,194 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:55:40,194 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:55:40,199 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:40,200 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:43,753 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:43,754 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:43,754 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:43,755 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:43,755 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:55:43,756 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:55:43,756 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:55:43,757 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:55:43,757 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:43,757 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:43,757 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:55:43,758 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:55:43,761 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:43,761 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:47,188 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:47,188 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:47,189 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:47,189 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:47,190 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:55:47,190 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:55:47,190 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:55:47,190 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:55:47,191 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:55:47,191 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:55:47,192 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:55:47,192 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:55:47,192 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:55:47,192 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:55:47,193 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:55:47,196 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 00:55:47,198 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:55:47,198 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:55:47,394 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:55:47,395 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:55:47,399 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:47,399 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:50,838 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:50,838 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:50,839 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:50,839 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:50,840 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:55:50,840 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:55:50,840 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:55:50,840 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:55:50,841 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:50,841 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:55:50,841 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:55:50,841 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:55:50,844 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:55:50,845 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:55:55,153 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:55:55,154 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:55:55,154 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:55:55,154 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:55:55,154 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:55:55,154 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:55:55,155 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:55:55,155 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:55:55,155 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:55:55,155 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:55:55,156 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:55:55,156 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:55:55,156 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:55:55,156 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:55:55,157 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:55:55,159 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:55:55,159 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:56:21,391 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:56:21,391 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:56:21,396 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:56:21,396 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:56:25,053 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:56:25,054 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:56:25,054 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:56:25,054 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:56:25,055 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:56:25,055 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:56:25,055 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:56:25,055 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:56:25,055 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:56:25,056 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:56:25,056 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:56:25,056 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:56:25,059 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:56:25,060 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:56:28,625 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:56:28,626 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:56:28,627 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:56:28,627 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:56:28,628 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:56:28,628 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:56:28,629 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:56:28,629 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:56:28,629 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:56:28,630 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:56:28,630 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:56:28,631 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:56:28,631 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:56:28,631 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:56:28,632 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:56:28,634 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 00:56:28,635 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:56:28,636 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:56:28,842 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:56:28,843 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:56:28,846 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:56:28,846 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:56:32,267 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:56:32,268 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:56:32,268 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:56:32,269 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:56:32,269 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:56:32,269 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:56:32,270 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:56:32,270 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:56:32,270 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:56:32,270 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:56:32,271 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:56:32,271 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:56:32,274 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:56:32,275 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:56:35,996 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:56:35,997 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:56:35,997 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:56:35,998 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:56:35,998 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:56:35,998 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:56:35,999 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:56:35,999 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:56:35,999 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:56:35,999 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:56:36,000 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:56:36,000 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:56:36,000 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:56:36,000 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:56:36,001 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:56:36,005 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:56:36,005 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:58:52,782 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:58:52,797 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:58:52,798 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:58:52,803 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:58:52,803 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:58:56,439 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:58:56,440 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:58:56,440 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:58:56,441 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:58:56,441 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:58:56,441 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:58:56,442 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:58:56,442 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:58:56,442 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:58:56,443 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:58:56,443 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:58:56,443 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:58:56,447 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:58:56,447 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:58:59,912 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:58:59,913 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:58:59,914 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:58:59,914 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:58:59,914 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:58:59,915 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:58:59,915 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:58:59,916 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:58:59,916 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:58:59,916 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:58:59,916 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:58:59,917 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:58:59,917 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:58:59,917 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:58:59,918 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:58:59,919 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:58:59,920 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:59:06,158 - utils.logging_config - INFO - Logging configured.
+2025-07-26 00:59:06,934 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 00:59:15,925 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 00:59:16,749 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 00:59:16,786 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 00:59:16,797 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 00:59:18,099 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:59:18,103 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:59:18,103 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 00:59:18,104 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:59:18,104 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:59:18,105 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 00:59:18,112 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:18,112 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:18,113 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:18,113 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:18,114 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:18,115 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:23,247 - vector_store.embeddings - INFO - Embedding model 'sentence-transformers/all-MiniLM-L6-v2' loaded successfully.
+2025-07-26 00:59:23,248 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:23,248 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:23,248 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:23,249 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:59:23,249 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:59:23,249 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:59:23,250 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:59:23,250 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,250 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,251 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:59:23,251 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:59:23,255 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:23,255 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:23,445 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 00:59:23,450 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:23,451 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:23,451 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:23,451 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:59:23,452 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:59:23,452 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:59:23,452 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:59:23,452 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,453 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,453 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:59:23,453 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:59:23,458 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:23,458 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:23,643 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 00:59:23,647 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:23,647 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:23,648 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:23,648 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 00:59:23,649 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 00:59:23,649 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 00:59:23,650 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 00:59:23,650 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,650 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 00:59:23,651 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 00:59:23,651 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 00:59:23,654 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 00:59:23,655 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 00:59:26,811 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 00:59:26,816 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:26,817 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:26,817 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:26,818 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:59:26,818 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:59:26,818 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:59:27,304 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 00:59:27,309 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:27,309 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:27,309 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:27,310 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:59:27,310 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:59:27,310 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:59:27,311 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:59:27,311 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:59:27,312 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:59:27,312 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:59:27,313 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:59:27,314 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:59:27,314 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:59:27,315 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:59:27,340 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 00:59:27,344 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 00:59:27,345 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 00:59:27,347 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 00:59:27,349 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 00:59:27,349 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:59:27,349 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 00:59:27,350 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 00:59:27,350 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 00:59:27,351 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 00:59:27,352 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 00:59:27,586 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 00:59:27,590 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 00:59:27,591 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 00:59:27,591 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 00:59:27,591 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 00:59:27,592 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 00:59:27,596 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 00:59:27,596 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:00:09,630 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:00:09,631 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:00:09,636 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:09,636 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:13,371 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:13,375 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:13,376 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:13,376 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:13,376 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:00:13,376 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:00:13,377 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:00:13,377 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:00:13,377 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:13,377 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:13,377 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:00:13,378 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:00:13,381 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:13,381 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:16,942 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:16,946 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:16,947 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:16,947 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:16,949 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:00:16,949 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:00:16,950 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:00:16,950 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:00:16,950 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:00:16,951 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:00:16,951 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:00:16,952 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:00:16,952 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:00:16,952 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:00:16,953 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:00:16,957 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 01:00:16,958 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:00:16,958 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:00:17,143 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:00:17,143 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:00:17,146 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:17,147 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:21,134 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:21,138 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:21,139 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:21,139 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:21,140 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:00:21,140 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:00:21,140 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:00:21,140 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:00:21,141 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:21,141 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:21,141 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:00:21,141 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:00:21,144 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:21,145 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:25,214 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:25,218 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:25,219 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:25,220 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:25,220 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:00:25,220 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:00:25,221 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:00:25,221 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:00:25,221 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:00:25,221 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:00:25,222 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:00:25,222 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:00:25,222 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:00:25,222 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:00:25,223 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:00:25,225 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:00:25,226 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:00:29,074 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:00:29,074 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:00:29,078 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:29,078 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:32,736 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:32,739 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:32,740 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:32,741 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:32,741 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:00:32,742 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:00:32,742 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:00:32,743 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:00:32,743 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:32,743 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:32,743 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:00:32,743 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:00:32,747 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:32,747 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:36,457 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:36,461 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:36,461 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:36,462 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:36,462 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:00:36,463 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:00:36,463 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:00:36,463 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:00:36,463 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:00:36,464 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:00:36,464 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:00:36,464 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:00:36,465 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:00:36,466 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:00:36,466 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:00:36,469 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 01:00:36,470 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:00:36,470 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:00:36,658 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:00:36,659 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:00:36,663 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:36,663 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:40,724 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:40,728 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:40,729 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:40,729 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:40,729 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:00:40,730 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:00:40,730 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:00:40,730 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:00:40,731 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:40,731 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:00:40,731 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:00:40,731 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:00:40,735 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-26 01:00:40,735 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:00:45,033 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:00:45,037 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:00:45,037 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:00:45,038 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:00:45,038 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:00:45,038 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:00:45,038 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:00:45,039 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:00:45,039 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:00:45,040 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:00:45,040 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:00:45,040 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:00:45,041 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:00:45,041 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:00:45,041 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:00:45,044 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:00:45,045 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:02:52,778 - utils.logging_config - INFO - Logging configured.
+2025-07-26 01:02:53,623 - numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+2025-07-26 01:03:03,124 - datasets - INFO - PyTorch version 2.7.0 available.
+2025-07-26 01:03:03,897 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-07-26 01:03:03,925 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-26 01:03:03,935 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-26 01:03:05,212 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:05,217 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:05,217 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:05,218 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:05,221 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:05,222 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:10,245 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:10,249 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:10,249 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:10,249 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:10,250 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:03:10,250 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:03:10,250 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:03:10,251 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:03:10,251 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:10,251 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:10,251 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:03:10,251 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:03:10,254 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:10,294 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:10,298 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:10,299 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:10,299 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:10,299 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:03:10,300 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:03:10,300 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:03:10,300 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:03:10,300 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:10,301 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:10,301 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:03:10,301 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:03:10,304 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:13,824 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:13,829 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:13,830 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:13,830 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:13,831 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:03:13,831 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:03:13,832 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:03:13,833 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:03:13,833 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:03:13,834 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:03:13,834 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:03:13,835 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:03:13,836 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:03:13,836 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:03:13,836 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:03:13,845 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:03:13,845 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:03:14,042 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:14,046 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:14,047 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:14,047 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:14,047 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:03:14,047 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:03:14,048 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:03:14,049 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:03:14,049 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:03:14,050 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:03:14,050 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:03:14,050 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:03:14,051 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:03:14,051 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:03:14,052 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:03:14,055 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:03:14,055 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:03:25,098 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:25,098 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:25,101 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:28,706 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:28,709 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:28,710 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:28,710 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:28,710 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:03:28,711 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:03:28,711 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:03:28,711 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:03:28,711 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:28,712 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:28,712 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:03:28,712 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:03:28,714 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:32,207 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:32,211 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:32,212 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:32,212 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:32,213 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:03:32,213 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:03:32,213 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:03:32,214 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:03:32,214 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:03:32,214 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:03:32,214 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:03:32,215 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:03:32,215 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:03:32,215 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:03:32,216 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:03:32,219 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:03:32,219 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:03:46,871 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:46,872 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:46,876 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:51,365 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:51,370 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:51,370 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:51,371 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:51,371 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:03:51,371 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:03:51,372 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:03:51,372 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:03:51,372 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:51,372 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:51,372 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:03:51,373 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:03:51,375 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:54,964 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:54,969 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:54,969 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:54,970 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:54,970 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:03:54,970 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:03:54,971 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:03:54,971 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:03:54,971 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:03:54,972 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:03:54,972 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:03:54,972 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:03:54,973 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:03:54,973 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:03:54,973 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:03:54,978 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 01:03:54,980 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:03:54,980 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:03:55,198 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:55,198 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:55,201 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:57,832 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:03:57,832 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:03:57,836 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:03:59,004 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:03:59,010 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:03:59,011 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:03:59,011 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:03:59,011 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:03:59,012 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:03:59,012 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:03:59,012 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:03:59,012 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:59,013 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:03:59,013 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:03:59,013 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:03:59,016 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:01,405 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:01,410 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:01,411 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:01,411 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:01,411 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:04:01,412 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:04:01,412 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:04:01,412 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:04:01,412 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:01,413 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:01,413 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:04:01,413 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:04:01,416 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:02,851 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:02,857 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:02,858 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:02,858 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:02,858 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:04:02,858 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:04:02,859 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:04:04,950 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:04,957 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:04,957 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:04,958 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:04,958 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:04:04,958 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:04:04,959 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:04:04,959 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:04:04,960 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:04:04,960 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:04:04,961 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:04:04,961 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:04:04,962 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:04:04,962 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:04:04,962 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:04:04,965 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:04:04,966 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:04:19,272 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:04:19,273 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:04:19,278 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:23,028 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:23,032 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:23,033 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:23,033 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:23,034 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:04:23,034 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:04:23,034 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:04:23,035 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:04:23,035 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:23,036 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:23,036 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:04:23,036 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:04:23,039 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:26,486 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:26,490 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:26,491 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:26,491 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:26,492 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:04:26,492 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:04:26,492 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:04:26,492 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:04:26,493 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:04:26,493 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:04:26,493 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:04:26,494 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:04:26,494 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:04:26,494 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:04:26,494 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:04:26,499 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 01:04:26,500 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:04:26,501 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:04:26,688 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:04:26,688 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:04:26,691 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:30,646 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:30,651 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:30,652 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:30,653 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:30,653 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:04:30,653 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:04:30,654 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:04:30,654 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:04:30,654 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:30,654 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:30,655 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:04:30,655 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:04:30,657 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:34,385 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:34,390 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:34,391 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:34,392 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:34,392 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:04:34,392 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:04:34,393 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:04:34,393 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:04:34,394 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:04:34,394 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:04:34,395 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:04:34,395 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:04:34,395 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:04:34,395 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:04:34,396 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:04:34,398 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:04:34,399 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:04:52,791 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:04:52,792 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:04:52,796 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:04:56,680 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:04:56,685 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:04:56,685 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:04:56,686 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:04:56,686 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:04:56,687 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:04:56,687 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:04:56,687 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:04:56,688 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:56,688 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:04:56,688 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:04:56,688 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:04:56,691 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:05:00,903 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:05:00,908 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:05:00,908 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:05:00,909 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:05:00,909 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:05:00,909 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:05:00,910 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:05:00,910 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:05:00,910 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:05:00,911 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:05:00,911 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:05:00,911 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:05:00,912 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:05:00,912 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:05:00,913 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:05:00,918 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 01:05:00,919 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:05:00,920 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:05:01,141 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:05:01,141 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:05:01,145 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:05:04,636 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:05:04,642 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:05:04,642 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:05:04,643 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:05:04,643 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:05:04,643 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:05:04,644 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:05:04,644 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:05:04,644 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:05:04,644 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:05:04,645 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:05:04,645 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:05:04,649 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:05:09,427 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:05:09,432 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:05:09,432 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:05:09,433 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:05:09,433 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:05:09,434 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:05:09,434 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:05:09,435 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:05:09,435 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:05:09,435 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:05:09,436 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:05:09,436 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:05:09,436 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:05:09,437 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:05:09,437 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:05:09,440 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:05:09,440 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:05:46,032 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:05:46,033 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:05:46,036 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:05:49,805 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:05:49,813 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:05:49,813 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:05:49,814 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:05:49,814 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:05:49,815 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:05:49,815 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:05:49,816 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:05:49,816 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:05:49,816 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:05:49,817 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:05:49,817 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:05:49,822 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:05:53,391 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:05:53,395 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:05:53,396 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:05:53,396 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:05:53,397 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:05:53,397 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:05:53,397 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:05:53,398 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:05:53,398 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:05:53,398 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:05:53,398 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:05:53,399 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:05:53,399 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:05:53,400 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:05:53,400 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:05:53,403 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:05:53,404 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:09:13,782 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:09:13,782 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:09:13,786 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:17,301 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:17,305 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:17,305 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:17,306 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:17,306 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:09:17,306 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:09:17,307 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:09:17,307 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:09:17,307 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:17,308 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:17,308 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:09:17,308 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:09:17,311 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:20,848 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:20,853 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:20,853 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:20,854 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:20,854 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:09:20,855 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:09:20,855 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:09:20,856 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:09:20,856 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:09:20,857 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:09:20,857 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:09:20,857 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:09:20,858 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:09:20,858 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:09:20,858 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:09:20,862 - utils.logging_config - INFO - Message sent: MessageType.INGESTION_REQUEST from CoordinatorAgent to *
+2025-07-26 01:09:20,864 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:09:20,864 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:09:21,068 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:09:21,068 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:09:21,071 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:25,153 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:25,158 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:25,158 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:25,159 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:25,159 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:09:25,159 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:09:25,160 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:09:25,160 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:09:25,160 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:25,160 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:25,161 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:09:25,161 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:09:25,163 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:28,732 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:28,736 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:28,736 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:28,736 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:28,737 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:09:28,737 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:09:28,737 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:09:28,738 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:09:28,738 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:09:28,738 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:09:28,739 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:09:28,739 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:09:28,739 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:09:28,740 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:09:28,740 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:09:28,743 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:09:28,743 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:09:34,125 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:09:34,125 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:09:34,129 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:38,611 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:38,616 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:38,617 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:38,617 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:38,617 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:09:38,618 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:09:38,618 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:09:38,618 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:09:38,618 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:38,619 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:38,619 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:09:38,619 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:09:38,622 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:42,807 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:42,811 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:42,812 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:42,812 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:42,813 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:09:42,813 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:09:42,814 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:09:42,814 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:09:42,814 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:09:42,815 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:09:42,815 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:09:42,816 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:09:42,816 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:09:42,816 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:09:42,817 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:09:42,820 - utils.logging_config - INFO - Message sent: MessageType.RETRIEVAL_REQUEST from CoordinatorAgent to *
+2025-07-26 01:09:42,821 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:09:42,822 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
+2025-07-26 01:09:43,026 - utils.logging_config - INFO - Agent CoordinatorAgent initialized.
+2025-07-26 01:09:43,026 - utils.logging_config - INFO - Agent IngestionAgent initialized.
+2025-07-26 01:09:43,030 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:46,583 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:46,588 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:46,589 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:46,589 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:46,589 - utils.logging_config - INFO - PDFProcessor initialized.
+2025-07-26 01:09:46,590 - processors.pptx_processor - INFO - PPTXProcessor initialized.
+2025-07-26 01:09:46,590 - processors.docx_processor - INFO - DOCXProcessor initialized.
+2025-07-26 01:09:46,590 - processors.csv_processor - INFO - CSVProcessor initialized.
+2025-07-26 01:09:46,591 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:46,591 - processors.text_processor - INFO - TextProcessor initialized.
+2025-07-26 01:09:46,591 - agents.ingestion_agent - INFO - IngestionAgent initialized.
+2025-07-26 01:09:46,592 - utils.logging_config - INFO - Agent RetrievalAgent initialized.
+2025-07-26 01:09:46,595 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-26 01:09:50,271 - vector_store.embeddings - ERROR - Error loading embedding model sentence-transformers/all-MiniLM-L6-v2: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-07-26 01:09:50,275 - vector_store.faiss_store - INFO - No existing FAISS index found. Creating a new one.
+2025-07-26 01:09:50,276 - vector_store.faiss_store - INFO - New FAISS index created with dimension 384
+2025-07-26 01:09:50,276 - vector_store.faiss_store - INFO - FAISSVectorStore initialized.
+2025-07-26 01:09:50,277 - agents.retrieval_agent - INFO - RetrievalAgent initialized.
+2025-07-26 01:09:50,277 - utils.logging_config - INFO - Agent LLMAgent initialized.
+2025-07-26 01:09:50,278 - agents.llm_agent - INFO - LLMAgent initialized.
+2025-07-26 01:09:50,278 - ui.chat_interface - INFO - ChatInterface initialized.
+2025-07-26 01:09:50,279 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_REQUEST
+2025-07-26 01:09:50,279 - agents.ingestion_agent - INFO - IngestionAgent setup complete and handler for INGESTION_REQUEST registered.
+2025-07-26 01:09:50,280 - utils.logging_config - INFO - Handler registered for message type: MessageType.RETRIEVAL_REQUEST
+2025-07-26 01:09:50,280 - agents.retrieval_agent - INFO - RetrievalAgent setup complete and handler for RETRIEVAL_REQUEST registered.
+2025-07-26 01:09:50,281 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_REQUEST
+2025-07-26 01:09:50,281 - agents.llm_agent - INFO - LLMAgent setup complete and handler for LLM_REQUEST registered.
+2025-07-26 01:09:50,281 - ui.chat_interface - INFO - All agents setup complete.
+2025-07-26 01:09:50,286 - utils.logging_config - INFO - Handler registered for message type: MessageType.INGESTION_RESPONSE
+2025-07-26 01:09:50,286 - utils.logging_config - INFO - Handler registered for message type: MessageType.LLM_RESPONSE
