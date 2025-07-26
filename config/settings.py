@@ -23,7 +23,7 @@ class Settings:
     FAISS_INDEX_NAME: str = "faiss_index"
 
     # LLM
-    LLM_MODEL_NAME = "gemini-pro" # Example, can be changed to other models
+    LLM_MODEL_NAME = "models/gemini-1.5-flash-latest" # Fastest Gemini model, may have separate quota
     LLM_TEMPERATURE: float = 0.7
 
     # MCP
